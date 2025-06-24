@@ -56,7 +56,7 @@ Working with third-party APIs asynchronously.
 ```bash
 # Clone the repo
 git clone https://github.com/amin3ltd/fastapi.git
-cd fastapi-book-projects
+cd fastapi
 
 # Navigate to a project
 cd todo-api
